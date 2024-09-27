@@ -30,3 +30,9 @@ edit your PR before we merge it. There's no need to open a new PR, just edit
 the existing one. If you're not sure how to do that,
 [here is a guide](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md)
 on the different ways you can update your PR so that we can merge it.
+
+## Template
+
+```md
+- ![no banner](./media/banner/nobanner.png) [List item](http://example.com)
+```
