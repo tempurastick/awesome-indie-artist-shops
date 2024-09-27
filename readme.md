@@ -19,12 +19,10 @@
 ### Thailand
 
 - ![no banner](./media/banner/nobanner.png) [Kadeart Online Shop](https://homu.in.th/kadeart/) - Fandom Merchandise, Fanbooks
-- ![no banner](./media/banner/nobanner.png) [List item](http://example.com)
 
 ### Phillipines
 
 - ![no banner](./media/banner/nobanner.png) [Sobsannix](https://sobsannix.carrd.co/#cart) - Original Merchandise, stickers, prints
-- ![no banner](./media/banner/nobanner.png) [List item](http://example.com)
 
 ## Africa
 
@@ -33,7 +31,6 @@
 ### Germany
 
 - ![no banner](./media/banner/nobanner.png) [SAYUVU'S ART STORE](https://sayuyuv.sumupstore.com/) - Fandom Merchandise, prints
-- ![no banner](./media/banner/nobanner.png) [List item](http://example.com)
 
 ### United Kingdom
 
@@ -76,11 +73,6 @@
 - ![no banner](./media/banner/nobanner.png) [Ticcy Shop](https://ticcytxshop.storenvy.com/) - Fandom and Original Merchandise, standees, pins
 - ![no banner](./media/banner/nobanner.png) [Yuutea](https://yuutea.myshopify.com/) - Fandom Merchandise, plushies, stickers, charms
 
-### Subsection
-
-- ![no banner](./media/banner/nobanner.png) [List item](http://example.com)
-- ![no banner](./media/banner/nobanner.png) [List item](http://example.com)
-
 ## South America
 
 ## Oceania
@@ -88,7 +80,6 @@
 ### Australia
 
 - ![no banner](./media/banner/nobanner.png) [Hawberries Webstore](https://www.hawberries.com/) - Fandom and Original Merchandise, Stationery, prints
-- ![no banner](./media/banner/nobanner.png) [List item](http://example.com)
 
 ## License
 
