@@ -86,7 +86,7 @@
 
 ## License
 
-[![App CC-0](./media/license/cc-zero.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![App CC-0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 ## Contribute
 
