@@ -67,9 +67,11 @@
 - ![no banner](./media/banner/nobanner.png) [mightier](https://shop.circle-7.net/) - Fandom Merchandise, prints, apparel, office
 - ![no banner](./media/banner/nobanner.png) [MK/RET](https://www.mkret.art/) - Fandom Merchandise, prints, charms, stickers
 - ![no banner](./media/banner/nobanner.png) [Rebecca](https://www.etsy.com/shop/repecca) - Original Merchandise, prints
+- ![no banner](./media/banner/nobanner.png) [sakulicina](https://shop.sakulicina.net/) - Fandom Merchandise, prints, stationery, accessories
 - ![no banner](./media/banner/nobanner.png) [SARAH.EXE](https://sarahdotexe.com/) - Fandom and Original Merchandise, prints, accessories
 - ![no banner](./media/banner/nobanner.png) [shopJOU](https://shopjou.bigcartel.com/) - Fandom and Original Merchandise, stationery, apparel
 - ![no banner](./media/banner/nobanner.png) [STEELWITHTEETH](https://steelwithteeth.com/) - Fandom Merchandise, plushies, stickers, charms
+- ![no banner](./media/banner/nobanner.png) [Super raenbow](https://superaenbow.shop/) - Original Merchandise, accessories, stationery, plushies
 - ![no banner](./media/banner/nobanner.png) [Ticcy Shop](https://ticcytxshop.storenvy.com/) - Fandom and Original Merchandise, standees, pins
 - ![no banner](./media/banner/nobanner.png) [Yuutea](https://yuutea.myshopify.com/) - Fandom Merchandise, plushies, stickers, charms
 
