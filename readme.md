@@ -66,6 +66,7 @@
 - ![no banner](./media/banner/nobanner.png) [mapurl](https://shop.mapurlsyrup.com/) - Original and Fandom Merchandise, apparell, prints, accessories
 - ![no banner](./media/banner/nobanner.png) [mightier](https://shop.circle-7.net/) - Fandom Merchandise, prints, apparel, office
 - ![no banner](./media/banner/nobanner.png) [MK/RET](https://www.mkret.art/) - Fandom Merchandise, prints, charms, stickers
+- ![no banner](./media/banner/nobanner.png) [Pikarar](https://www.pikarar.com/) - Original Merchandise, apparel, stationery, sketchbooks
 - ![no banner](./media/banner/nobanner.png) [Rebecca](https://www.etsy.com/shop/repecca) - Original Merchandise, prints
 - ![no banner](./media/banner/nobanner.png) [sakulicina](https://shop.sakulicina.net/) - Fandom Merchandise, prints, stationery, accessories
 - ![no banner](./media/banner/nobanner.png) [SARAH.EXE](https://sarahdotexe.com/) - Fandom and Original Merchandise, prints, accessories
